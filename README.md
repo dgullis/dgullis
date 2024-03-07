@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan Gullis.
 - Former Paramedic training to become a software engineer.
-- Currently a student on the Makers Academy sofwtware engineering bootcamp.
+- Currently a student on the Makers Academy software engineering bootcamp.
 - You can contact me on daniel.gullis1@gmail.com.
 
 

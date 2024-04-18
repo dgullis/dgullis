@@ -1,7 +1,6 @@
 - Hi, I’m Dan Gullis.
-- Junior Software Developer
+- Junior Software Engineer
 - Career changer with 7 years previous experience in healthcare roles (EMT > Paramedic > Paramedic Practitioner)
-- Recent graduate from the Makers Academy software engineering bootcamp.
 - You can contact me on daniel.gullis1@gmail.com.
 - You can visit my portfolio website on [dangullis.com](https://www.dangullis.com)
 - You can see my most recent projects on the pinned tabs below

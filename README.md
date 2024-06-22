@@ -1,5 +1,5 @@
 - Hi, I’m Dan Gullis.
-- Software Engineer
+- Full Stack Software Engineer
 - Former Paramedic with 7+ years of experience in high-pressure, unpredictable environments, developing valuable skills in resilience, teamwork, efficient 
   problem-solving, and making critical decisions under pressure. 
 - Transitioning to a career in software engineering to pursue my passion for problem-solving and coding, with a focus on building solutions that address real- 
